@@ -1,0 +1,1 @@
+python -m jurigged launchkey-idle.py
